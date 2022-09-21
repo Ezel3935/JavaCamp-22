@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class multiDimentionalArray {
+public class MultiDimentionalArray {
 
 	public static void main(String[] args) {
 		String [] [] sehirler = new String [3][3]; //3 satır ve 3 cloumn dan oluşacak bir array yapmak istediğimiz zxaman bu şekilde array oluşturuyoruz.

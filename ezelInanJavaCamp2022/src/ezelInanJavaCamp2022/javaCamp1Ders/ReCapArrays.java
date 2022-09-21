@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class reCapArrays {
+public class ReCapArrays {
 
 	public static void main(String[] args) {
 		double[] myList = {1.2,2.1,3.5,4.6};// tek satırlık dizeler yapmak istediğimizde bu şekilde işlem yapabilirizi

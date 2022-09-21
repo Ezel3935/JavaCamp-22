@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class sayiBulma {
+public class SayiBulma {
 
 	public static void main(String[] args) {
 		int[] numbers = new int[] { 1, 2, 5, 7, 9, 0 };

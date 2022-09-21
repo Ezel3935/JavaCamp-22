@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class switchBlokları {
+public class SwitchBlokları {
 
 	public static void main(String[] args) {
 		//switch bloklarıyla dallandırma yapılır

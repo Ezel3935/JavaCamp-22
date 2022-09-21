@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
 
 	public static void main(String[] args) {
 		int number = 16;

@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class arkadasSayilar {
+public class ArkadasSayilar {
 
 	public static void main(String[] args) {
 		// 220-284

@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class sesliHarfler {
+public class SesliHarfler {
 
 	public static void main(String[] args) {
 		char harf='E';

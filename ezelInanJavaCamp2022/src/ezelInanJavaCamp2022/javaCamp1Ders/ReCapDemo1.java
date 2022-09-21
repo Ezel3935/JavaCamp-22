@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class reCapDemo1 {
+public class ReCapDemo1 {
 
 	public static void main(String[] args) {
 		int sayi = 20;

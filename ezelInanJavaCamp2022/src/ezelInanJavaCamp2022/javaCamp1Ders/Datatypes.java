@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class datatypes {
+public class Datatypes {
 
 	public static void main(String[] args) {
 		int sayi = 13;

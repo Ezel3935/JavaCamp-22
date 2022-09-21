@@ -1,6 +1,6 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
-public class loopDemo {
+public class LoopDemo {
 //bir değişken default olarak tanımlandıysa sadece tanımlandığı yerde geçerlidir. yani for döngüsünde tanımlandıysa for döngüsünde geçerli olacaktır.
 	// eğer int=1 yaparsak tanımlanan değişken hep 1 olarak kalacağı için sonsuz
 	// döngü(infinite loop) olacaktır.

@@ -1,4 +1,4 @@
-package ezelInanJavaCamp2022;
+package ezelInanJavaCamp2022.javaCamp1Ders;
 
 public class Main {
 
